@@ -1,2 +1,4 @@
 # HDGAT
-Some code has already been uploaded, and all the code and data will be uploaded after the paper is accepted.
+#How to run the code?
+1.cd code
+2. python main.py
